@@ -1,0 +1,13 @@
+.container {
+    height: 100vh;
+    font-family: 'Oswald', sans-serif;
+    padding-top: 100px;
+}
+
+button {
+    width: 100%;
+}
+
+#dataPersonal p {
+    margin-bottom: 5px;
+}
